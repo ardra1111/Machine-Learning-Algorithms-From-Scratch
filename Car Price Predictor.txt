@@ -1,4 +1,7 @@
+
+Linear Regression from sratch
+
 Car Price Predictor
 
 
-We are working on a very large dataset and creating a machine learining  model to predict the price of cars. Here we a buliding a linear regression model from scratch
+We are working on a very large dataset and creating a machine learining  model to predict the price of cars using linear regreesion. Here we a buliding a linear regression model from scratch
